@@ -1,0 +1,16 @@
+[
+{
+  "modid": “MyFirstMod”,
+  "name": “My First Mod“,
+  "description": “A template made to make modding easier!“,
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [“aidancbrady”],
+  "credits": “Microsoft and the Minecraft community.”,
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
